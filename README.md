@@ -1,5 +1,5 @@
 # Showlog
-![Showlog preview](https://i.imgur.com/9fSXgUg.gif)
+![Showlog preview](9fSXgUg.gif)
 ## Features
 - Register or login to existing accounts
 - Add TV shows to collection
