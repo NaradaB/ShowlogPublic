@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap");
+
+.App {
+  text-align: center;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+}
+
+/* Login page */
+.new_message {
+  font-family: "Nunito", sans-serif;
+}
+
+.link {
+  text-decoration: none;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+  background-color: #1f1f1f;
+}

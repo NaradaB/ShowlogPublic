@@ -1,0 +1,8 @@
+.username-title {
+  width: 100%;
+  display: flex;
+  color: rgba(255, 255, 255, 0.55);
+  padding-left: 25px;
+  margin-top: 10px;
+  font-size: 22px;
+}
